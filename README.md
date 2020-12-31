@@ -1,4 +1,4 @@
-# spring-boot-gradle-docker
+# spring-boot-exercise
 
 This example application uses the following technologies:
 
